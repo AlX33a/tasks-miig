@@ -1,0 +1,12 @@
+|Methods for determining the coordinates of feature points|
+|692001000000|Geodetic method|
+|692002000000|Photogrammetric method|
+|692003000000|Cartometric method|
+|692004000000|Other description|
+|692005000000|Method of satellite geodetic measurements (definitions)|
+|692006000000|Analytical method|
+
+|Methods for fixing border points on the ground|
+|626001000000|Permanent boundary mark|
+|626002000000|Temporary boundary mark|
+|626003000000|No pinning|
